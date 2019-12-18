@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61379c46-24d1-4aab-954c-26dfbad74426" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1V3U3bixN2ipSOY6h3sJtQKXZl4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61379c46-24d1-4aab-954c-26dfbad74426" name="Default Changelist" comment="" />
+      <created>1576481074512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576481074512</updated>
+      <workItem from="1576481080114" duration="2795000" />
+      <workItem from="1576688662152" duration="731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576481626204">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="589" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1474.864@0.0.1474.864" timestamp="1576481626204" />
+    <state x="518" y="173" key="FileChooserDialogImpl" timestamp="1576689079710">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="518" y="173" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1576689079710" />
+    <state x="615" y="322" width="261" height="219" key="Github.ShareDialog" timestamp="1576689236388">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="615" y="322" width="261" height="219" key="Github.ShareDialog/0.0.1474.864@0.0.1474.864" timestamp="1576689236388" />
+    <state x="398" y="129" key="NewModule_or_Project.wizard" timestamp="1576689383014">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="398" y="129" key="NewModule_or_Project.wizard/0.0.1474.864@0.0.1474.864" timestamp="1576689383014" />
+    <state x="246" y="74" key="SettingsEditor" timestamp="1576688897968">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="246" y="74" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1576688897968" />
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1576690284211">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1576690284211" />
+  </component>
+</project>
