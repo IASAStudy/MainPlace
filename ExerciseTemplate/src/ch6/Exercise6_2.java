@@ -11,5 +11,18 @@ public class Exercise6_2 {
 }
 
 class SutdaCard{
-    // Here!
+    int num;
+    boolean isKwang;
+
+    SutdaCard() {
+        this(1,true);
+    }
+    SutdaCard(int num, boolean isKwang) {
+        this.num = num;
+        this.isKwang = isKwang==true;
+    }
+    String info() {
+        String kwang = isKwang==true ? "K":"";
+        return num+kwang;
+    }
 }

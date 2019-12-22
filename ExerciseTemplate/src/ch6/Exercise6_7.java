@@ -17,5 +17,7 @@ class MyPoint {
         this.y = y;
     }
 
-    // Here!! 인스턴스메서드 getDistance 작성
+    double getDistance(int x,int y) {
+        return Math.sqrt(Math.pow(this.x-x,2)+Math.pow(this.y-y,2));
+    }
 }

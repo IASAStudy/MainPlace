@@ -12,24 +12,24 @@ class MemberCall {
     static int cv=20;
 
     int iv2 = cv;
-    static int cv2 = iv;    // line A
+    // static int cv2 = iv;    // line A - iv 는 non-static member
 
     static void staticMethod1() {
         System.out.println(cv);
-        System.out.println(iv);    // line B
+    //    System.out.println(iv);    // line B - A와 같은 이유
     }
 
-    void instanceMethod() {
+    void instanceMethod1() {
         System.out.println(cv);
         System.out.println(iv);    // line C
     }
 
     static void staticMethod2() {
         staticMethod1();
-        instanceMethod1();    // line D
+    //    instanceMethod1();    // line D - instanceMethod1은 non-static method
     }
 
-    static instanceMethod2() {
+    void instanceMethod2() {
         staticMethod1();
         instanceMethod1();    // line E
     }
